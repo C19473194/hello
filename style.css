@@ -38,6 +38,7 @@
         
     /* the margin is added to increase the space between two elements as it is outside the border. */
     margin: 0.5em;
+    text-align: center;
 }
 
     
