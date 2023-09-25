@@ -28,3 +28,16 @@
     margin: 0em;
 
 }
+.box-three {    
+/* I can add a padding to the content, adding background to the element (and, consequently, more space around it) */
+    padding: 0.5em;
+    background-color: green;
+        
+/* the border goes around the padding */
+    border: 0em solid #27AE60;
+        
+    /* the margin is added to increase the space between two elements as it is outside the border. */
+    margin: 0.5em;
+}
+
+    
