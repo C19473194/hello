@@ -39,6 +39,9 @@
     /* the margin is added to increase the space between two elements as it is outside the border. */
     margin: 0.5em;
     text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+   
 }
 .box-three:hover {
     transform: scale(1.1);
